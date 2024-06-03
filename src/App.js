@@ -3,8 +3,10 @@ import Showcase from "./component/Showcase";
 import Newsletter from "./component/Newsletter";
 import Box from "./component/Box";
 import Learn from "./component/Learn";
-
-import Extra from "./component/Extra";
+import FAQ from "./component/FAQ";
+import Instructors from "./component/Instructors";
+import Contact from "./component/Contact";
+import Footer from "./component/Footer";
 
 function App() {
   return (
@@ -14,8 +16,10 @@ function App() {
       <Newsletter />
       <Box />
       <Learn />
-
-      <Extra />
+      <FAQ />
+      <Instructors />
+      <Contact />
+      <Footer />
     </>
   );
 }
