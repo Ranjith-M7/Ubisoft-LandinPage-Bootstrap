@@ -5,12 +5,12 @@ function FAQ() {
     <section id="faq" className="p-5">
       <div className="container">
         <h2 className="text-center mb-4">Frequently Asked Questions</h2>
-        <div class="accordion accordion-flush" id="questions">
+        <div className="accordion accordion-flush" id="questions">
           {/* Item 1 */}
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#question-1"
@@ -20,10 +20,10 @@ function FAQ() {
             </h2>
             <div
               id="question-1"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#questions"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed
                 qui rerum molestias nisi obcaecati commodi aperiam ab atque
                 eveniet eaque. <code>.accordion-flush</code> class. This is the
@@ -32,10 +32,10 @@ function FAQ() {
             </div>
           </div>
           {/* Item 2 */}
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#question-2"
@@ -45,10 +45,10 @@ function FAQ() {
             </h2>
             <div
               id="question-2"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#questions"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                 Expedita esse doloribus aspernatur voluptatem nobis eligendi.{" "}
                 <code>.accordion-flush</code> class. This is the second item's
@@ -58,10 +58,10 @@ function FAQ() {
             </div>
           </div>
           {/* Item 3 */}
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#question-3"
@@ -71,10 +71,10 @@ function FAQ() {
             </h2>
             <div
               id="question-3"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#questions"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 Placeholder content for this accordion, which is intended to
                 demonstrate the <code>.accordion-flush</code> class. This is the
                 third item's accordion body. Nothing more exciting happening
@@ -85,10 +85,10 @@ function FAQ() {
             </div>
           </div>
           {/* Item 4 */}
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#question-4"
@@ -98,10 +98,10 @@ function FAQ() {
             </h2>
             <div
               id="question-4"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#questions"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 Placeholder content for this accordion, which is intended to
                 demonstrate the <code>.accordion-flush</code> class. This is the
                 third item's accordion body. Nothing more exciting happening
@@ -112,10 +112,10 @@ function FAQ() {
             </div>
           </div>
           {/* Item 5 */}
-          <div class="accordion-item">
-            <h2 class="accordion-header">
+          <div className="accordion-item">
+            <h2 className="accordion-header">
               <button
-                class="accordion-button collapsed"
+                className="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#question-5"
@@ -125,10 +125,10 @@ function FAQ() {
             </h2>
             <div
               id="question-5"
-              class="accordion-collapse collapse"
+              className="accordion-collapse collapse"
               data-bs-parent="#questions"
             >
-              <div class="accordion-body">
+              <div className="accordion-body">
                 Placeholder content for this accordion, which is intended to
                 demonstrate the <code>.accordion-flush</code> class. This is the
                 third item's accordion body. Nothing more exciting happening

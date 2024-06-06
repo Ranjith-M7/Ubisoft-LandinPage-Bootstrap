@@ -11,7 +11,7 @@ function Newsletter() {
               type="text"
               class="form-control"
               placeholder="Enter Email"
-              aria-label="sign-up-for-newsletter"
+              aria-label="sign-up-btn-for-newsletter"
               aria-describedby="input-field-for-newsletter"
             />
             <button class="btn btn-dark btn-lg" type="button">
