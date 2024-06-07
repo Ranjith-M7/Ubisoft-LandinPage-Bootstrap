@@ -16,7 +16,7 @@ function NavBar() {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbar-menu">
-          <ul className="navbar-nav ms-auto">
+          <ul className="navbar-nav ms-auto fw-bold">
             <li className="nav-item">
               <a href="#" className="nav-link">
                 PLAY

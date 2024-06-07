@@ -15,7 +15,7 @@ function FAQ() {
                 data-bs-toggle="collapse"
                 data-bs-target="#question-1"
               >
-                How much does it cost to attend?
+                Where can I check for job openings at Ubisoft India studios?
               </button>
             </h2>
             <div
@@ -24,10 +24,11 @@ function FAQ() {
               data-bs-parent="#questions"
             >
               <div className="accordion-body">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed
-                qui rerum molestias nisi obcaecati commodi aperiam ab atque
-                eveniet eaque. <code>.accordion-flush</code> class. This is the
-                first item's accordion body.
+                You can apply for the job you like from the Ubisoft India{" "}
+                <span className="fw-bold">careers page</span>. Once you click on Job Openings, you
+                will be redirected to our open positions in Pune and Mumbai. You
+                can click on the job opening of your choice and submit your
+                application from there.
               </div>
             </div>
           </div>
@@ -40,7 +41,7 @@ function FAQ() {
                 data-bs-toggle="collapse"
                 data-bs-target="#question-2"
               >
-                What do I need to know?
+                Should I add my portfolio link along with my CV?
               </button>
             </h2>
             <div
@@ -49,11 +50,9 @@ function FAQ() {
               data-bs-parent="#questions"
             >
               <div className="accordion-body">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Expedita esse doloribus aspernatur voluptatem nobis eligendi.{" "}
-                <code>.accordion-flush</code> class. This is the second item's
-                accordion body. Let's imagine this being filled with some actual
-                content.
+                Yes! You can apply for multiple positions at Ubisoft India.
+                However, we encourage you to apply for the role best suited for
+                you since it would increase your chances of being considered.
               </div>
             </div>
           </div>
@@ -66,7 +65,7 @@ function FAQ() {
                 data-bs-toggle="collapse"
                 data-bs-target="#question-3"
               >
-                Do you help me find a job?
+                What is the recruitment process at Ubisoft India?
               </button>
             </h2>
             <div
@@ -75,12 +74,8 @@ function FAQ() {
               data-bs-parent="#questions"
             >
               <div className="accordion-body">
-                Placeholder content for this accordion, which is intended to
-                demonstrate the <code>.accordion-flush</code> class. This is the
-                third item's accordion body. Nothing more exciting happening
-                here in terms of content, but just filling up the space to make
-                it look, at least at first glance, a bit more representative of
-                how this would look in a real-world application.
+                Absolutely! We would love to see a snapshot of your work. This
+                will also help in making your application with us stronger.
               </div>
             </div>
           </div>
@@ -93,7 +88,7 @@ function FAQ() {
                 data-bs-toggle="collapse"
                 data-bs-target="#question-4"
               >
-                What exactly are you located?
+                What is the recruitment process at Ubisoft India?
               </button>
             </h2>
             <div
@@ -102,12 +97,13 @@ function FAQ() {
               data-bs-parent="#questions"
             >
               <div className="accordion-body">
-                Placeholder content for this accordion, which is intended to
-                demonstrate the <code>.accordion-flush</code> class. This is the
-                third item's accordion body. Nothing more exciting happening
-                here in terms of content, but just filling up the space to make
-                it look, at least at first glance, a bit more representative of
-                how this would look in a real-world application.
+                The recruitment process may vary according to the role. However,
+                after you apply for a job, our recruiting team evaluates your
+                skills and experience related to the job you've applied for. If
+                you are selected to advance in the process, you'll hear from our
+                recruiter. In this call, you will be guided with the hiring
+                process for the relevant job. If you aren’t the best fit for the
+                position, we will let you know through email.
               </div>
             </div>
           </div>
@@ -120,7 +116,7 @@ function FAQ() {
                 data-bs-toggle="collapse"
                 data-bs-target="#question-5"
               >
-                How long the course?
+                Does Ubisoft India offer intemship opportunities?
               </button>
             </h2>
             <div
@@ -129,12 +125,9 @@ function FAQ() {
               data-bs-parent="#questions"
             >
               <div className="accordion-body">
-                Placeholder content for this accordion, which is intended to
-                demonstrate the <code>.accordion-flush</code> class. This is the
-                third item's accordion body. Nothing more exciting happening
-                here in terms of content, but just filling up the space to make
-                it look, at least at first glance, a bit more representative of
-                how this would look in a real-world application.
+                Yes! Ubisoft India does offer internship opportunities. Follow
+                our Careers page to keep up to date with the internship
+                openings.
               </div>
             </div>
           </div>

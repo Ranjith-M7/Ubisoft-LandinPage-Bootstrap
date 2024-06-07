@@ -8,7 +8,8 @@ function Showcase() {
         <div className="container">
           <div className="d-sm-flex align-items-center justify-content-between">
             <div>
-              <h1>
+              <span className="p-2 bg-dark text-white border border-black rounded-3">New Release <i className="bi bi-chevron-right"></i></span>
+              <h1 className="mt-4">
                 Assassin's Creed <span className="text-danger">Shadows </span>
                 (2024)
               </h1>
@@ -19,11 +20,11 @@ function Showcase() {
               </p>
               <button
                 type="button"
-                className="btn btn-danger btn-lg"
+                className="btn btn-danger btn-lg mt-3"
                 data-bs-toggle="modal"
                 data-bs-target="#enroll"
               >
-                Start The Enrollment
+                Click to pre-order
               </button>
             </div>
             <img
@@ -47,7 +48,7 @@ function Showcase() {
           <div className="modal-content">
             <div className="modal-header">
               <h5 className="modal-title" id="exampleModalLabel">
-                Modal title
+                Fill out the form
               </h5>
               <button
                 type="button"
@@ -58,7 +59,7 @@ function Showcase() {
             </div>
             <div className="modal-body">
               <p className="lead">
-                Fill out this form and we will get back to you
+                Enter your details to pre-order the game.
               </p>
 
               <form action="#">
@@ -82,9 +83,9 @@ function Showcase() {
                 </div>
                 <div className="mb-3">
                   <label htmlFor="phone" className="col-form-label">
-                    Phone:
+                    Game:
                   </label>
-                  <input type="tel" className="form-control" id="phone" />
+                  <input type="text" className="form-control" id="phone" />
                 </div>
               </form>
             </div>

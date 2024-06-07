@@ -4,9 +4,9 @@ function Instructors() {
   return (
     <section id="instructors" className="bg-primary p-5">
       <div className="container">
-        <h2 className="text-center text-white">Our Instructors</h2>
+        <h2 className="text-center text-white">Our Game Developers</h2>
         <p className="lead text-center mb-5 text-white">
-          Our instructors att have 5+ years working as a web developer in the
+          Our developers have 7+ years working as a game developer in the
           industry
         </p>
         <div className="row g-4">
